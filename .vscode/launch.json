@@ -8,15 +8,15 @@
             "name": "Launch Integrated Browser",
             "request": "launch",
             "type": "editor-browser",
-            "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
+            "url": "http://localhost:4174",
+            "webRoot": "${workspaceFolder}/frontend"
         },
         {
             "type": "editor-browser",
             "request": "launch",
             "name": "Launch Integrated Browser against localhost",
-            "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
+            "url": "http://localhost:4174",
+            "webRoot": "${workspaceFolder}/frontend"
         }
     ]
 }
