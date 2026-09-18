@@ -1,7 +1,13 @@
+# Elevate Training Platform (superseded)
+
+This draft is superseded by [`elevate-os-production-specification.md`](./elevate-os-production-specification.md) and the Next.js implementation in `web/`.
+
+---
+
 # Elevate Training Platform
 ## Technical Specification and Implementation Roadmap
 
-**Document status:** Implementation baseline  
+**Document status:** Superseded — kept for history only  
 **Audience:** Product, design, engineering, QA, security, and operations teams  
 **Product promise:** A trainer-led fitness experience that feels as considered as a premium consumer product, while remaining fast and legible in the middle of a workout.
 
